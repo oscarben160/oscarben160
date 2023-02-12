@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyitics Projects:</h2>
 
 - <b>R (Programing Language)</b>
-  - [Statistical Modeling](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Statistical Modeling](https://github.com/oscarben160/R_projects/blob/main/statistical_modeling.Rmd)
   - [Machine Learning]
 - <b>SQL</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
