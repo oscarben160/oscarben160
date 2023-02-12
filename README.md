@@ -12,6 +12,7 @@
   - [Another Query Exercise](https://github.com/oscarben160/SQL_projects/blob/main/movie_exercise.sql)
 - <b>Python</b>
   - [Tic-Tac-Toe Game](https://github.com/oscarben160/Python_projects/blob/main/tic-tac-toe_game.py)
+  - [Processing Strings](https://github.com/oscarben160/Python_projects/blob/main/processing_strings.py)
 
 
 <!--
