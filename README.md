@@ -4,7 +4,7 @@
 
 - <b>R (Programing Language)</b>
   - [Statistical Modeling](https://github.com/oscarben160/R_projects/blob/main/statistical_modeling.Rmd)
-  - [Machine Learning - Naive Bayes Classifier](https://github.com/oscarben160/R_projects/blob/main/Mushies.Rhttps://github.com/oscarben160/R_projects/blob/main/Mushies.R)
+  - [Machine Learning - Naive Bayes Classifier](https://github.com/oscarben160/R_projects/blob/main/Mushies.R)
 - <b>SQL</b>
   - [Query Exercise](https://github.com/oscarben160/SQL_projects/blob/main/query_exercise.sql)
   - [Creating Tabels](https://github.com/oscarben160/SQL_projects/blob/main/creating_various_tables.sql)
