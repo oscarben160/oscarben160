@@ -11,10 +11,8 @@
   - [String Manipulations](https://github.com/oscarben160/SQL_projects/blob/main/string_manipulations.sql)
   - [Another Query Exercise](https://github.com/oscarben160/SQL_projects/blob/main/movie_exercise.sql)
 - <b>Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Tic-Tac-Toe Game](https://github.com/oscarben160/Python_projects/blob/main/tic-tac-toe_game.py)
+
 
 <!--
 **oscarben160/oscarben160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
