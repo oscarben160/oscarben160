@@ -1,6 +1,6 @@
 <h1>Hi, I'm Oscar! 
 
-<h2>👨‍💻 Data Analyitics Projects:</h2>
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>R (Programing Language)</b>
   - [Statistical Modeling](https://github.com/oscarben160/R_projects/blob/main/statistical_modeling.Rmd)
