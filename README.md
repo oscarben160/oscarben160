@@ -6,7 +6,7 @@
   - [Statistical Modeling](https://github.com/oscarben160/R_projects/blob/main/statistical_modeling.Rmd)
   - [Machine Learning - Naive Bayes Classifier](https://github.com/oscarben160/R_projects/blob/main/Mushies.Rhttps://github.com/oscarben160/R_projects/blob/main/Mushies.R)
 - <b>SQL</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Query Exercise](https://github.com/oscarben160/SQL_projects/blob/main/query_exercise.sql) 
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
