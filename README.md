@@ -8,6 +8,7 @@
 - <b>SQL</b>
   - [Query Exercise](https://github.com/oscarben160/SQL_projects/blob/main/query_exercise.sql)
   - [Creating Tabels](https://github.com/oscarben160/SQL_projects/blob/main/creating_various_tables.sql)
+  - [String Manipulations](https://github.com/oscarben160/SQL_projects/blob/main/string_manipulations.sql)
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
